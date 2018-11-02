@@ -4,10 +4,10 @@
 
 Using data from Twitter's API collecting data for the 2018 Texas Senate Race, we identified that the key issues for the particular election were the following:
 
-1. Trump
-2. Health
-3. Justice
-4. Immigration
+- Trump
+- Health
+- Justice
+- Immigration
 
 Performing lift and sentiment analysis regarding the identified issues for both candidates we concluded the following:
 
