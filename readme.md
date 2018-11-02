@@ -31,7 +31,7 @@ All the steps of the process are thoroughly presented in the project's report.
 - Cruz should focus on politics and try to strongly affiliate his candidacy with Trump, tapping into his Trump's popularity in order to retain his small city votes.
 
 
-## Areas for improvement
+## Areas of improvement
 
 - Use of a larger dataset over a longer period of time
 - Analysis of the gerrymandering effect taking into account district boundaries
