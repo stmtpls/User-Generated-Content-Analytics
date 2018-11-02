@@ -1,4 +1,4 @@
-# Analyzing Twitter Data on the 2018 Texas Senate Race 
+# Analyzing Twitter Data of the 2018 Texas Senate Race 
 
 ## TL;DR
 
