@@ -36,4 +36,3 @@ All the steps of the process are thoroughly presented in the project's report.
 
 - Use of a larger dataset over a longer period of time
 - Analysis of the gerrymandering effect taking into account district boundaries
-}
